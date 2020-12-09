@@ -25,4 +25,4 @@ How can I help develop the software?
 Edit the source code and convert it to HTLM.
 Then, you will have to send it to alejoo.fernandez.2003@gmail.com (The creator).
 How do I compile an HTML?
-You will have to go to the following page: https: //sheeptester.github.io/htmlifier/, then edit it and put the data it asks for.
+You will have to go to the following page: https://sheeptester.github.io/htmlifier/, then edit it and put the data it asks for.
